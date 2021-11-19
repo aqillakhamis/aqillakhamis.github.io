@@ -2,7 +2,8 @@
 
 - ⚡ I'm Aqilla!
 - 🔭 I’m currently working on Machine Learning, Deep Learning and Swarm Intelligence Optimization
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqillakhamis&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqillakhamis&show_icons=true&theme=radical)
 
 
 
