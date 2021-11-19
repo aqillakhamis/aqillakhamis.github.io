@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-⚡ I'm Aqilla!
-🔭 I’m currently working on Machine Learning, Deep Learning and Swarm Intelligence Optimization
+- ⚡ I'm Aqilla!
+- 🔭 I’m currently working on Machine Learning, Deep Learning and Swarm Intelligence Optimization
 
 
 <!--
