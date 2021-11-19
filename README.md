@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+⚡ I'm Aqilla!
+🔭 I’m currently working on Machine Learning, Deep Learning and Swarm Intelligence Optimization
+
+
 <!--
 **aqillakhamis/aqillakhamis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
