@@ -3,7 +3,7 @@
 - ⚡ I'm Aqilla!
 - 🔭 Currently working on Machine Learning, Deep Learning and Swarm Intelligence Optimization
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqillakhamis&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqillakhamis&show_icons=true&theme=vision-friendly-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aqillakhamis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
