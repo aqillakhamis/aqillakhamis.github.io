@@ -7,7 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aqillakhamis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aqillakhamis"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aqillakhamis&theme=chartreuse-dark)](https://git.io/streak-stats)
 
 
 <!--
