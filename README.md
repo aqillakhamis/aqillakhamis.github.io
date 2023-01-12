@@ -3,11 +3,8 @@
 - ⚡ I'm Aqilla!
 - 🔭 Currently working on Machine Learning, Deep Learning and Swarm Intelligence Optimization
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqillakhamis&show_icons=true&theme=vision-friendly-dark)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aqillakhamis&theme=chartreuse-dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aqillakhamis&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # IDE 
 ![](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white) ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
