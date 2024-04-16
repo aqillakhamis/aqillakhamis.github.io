@@ -32,7 +32,7 @@ I'm a Senior Lecturer at Universiti Teknologi Malaysia, where I delve into the e
 
 ## 📖 Research Publications
 
-- [![Google Scholar](https://icons8.com/icon/okYCvWotC0uX/google-scholar)](https://scholar.google.com/citations?user=HMfNRWMAAAAJ&hl=en&oi=ao)
+- [Google Scholar](https://scholar.google.com/citations?user=HMfNRWMAAAAJ&hl=en&oi=ao)
 
 ## 📫 Get in Touch
 
