@@ -25,9 +25,14 @@ I'm a Senior Lecturer at Universiti Teknologi Malaysia, where I delve into the e
 - **Former Data Scientist**, Invoke Solutions Sdn Bhd
 - **Former Deep Learning Engineer**, Skymind Holdings Sdn Bhd
 
-## 👨‍🎓👩‍🎓 Research Project
+## 💻 Research Project
+
 - [Undergraduate Project]()
 - [Postgraduate Project]()
+
+## 📖 Research Publications
+
+- 🕸️ Google Scholar: [![Google Scholar](https://your-google-scholar-icon-url.com/your-google-scholar-icon.png)](https://scholar.google.com/citations?user=HMfNRWMAAAAJ&hl=en&oi=ao)
 
 ## 📫 Get in Touch
 
