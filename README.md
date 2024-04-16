@@ -19,6 +19,9 @@ I'm a Senior Lecturer at Universiti Teknologi Malaysia, where I delve into the e
 - **M.Phil. (Research: Artificial Intelligence)**, Universiti Teknologi Malaysia
 - **B.Eng. in Electrical and Electronics**, Universiti Tenaga Nasional
 
+- **Former Data Scientist**, Invoke Solutions Sdn Bhd
+- **Former Deep Learning Engineer**, Skymind Holdings Sdn Bhd
+
 <!-- Your other content -->
 
 ## 📫 Get in Touch
