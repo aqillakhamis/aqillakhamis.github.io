@@ -15,9 +15,12 @@ I'm a Senior Lecturer at Universiti Teknologi Malaysia, where I delve into the e
 ## 📚 Education & Experience
 
 - **Senior Lecturer**, Universiti Teknologi Malaysia
+- **Associate Research Fellow**, Center for Artificial Intelligence & Robotics, UTM
 - **Ph.D. (Research: Artificial Intelligence)**, Universiti Teknologi Malaysia
 - **M.Phil. (Research: Artificial Intelligence)**, Universiti Teknologi Malaysia
 - **B.Eng. in Electrical and Electronics**, Universiti Tenaga Nasional
+
+## 👩‍💼 Past Experience
 
 - **Former Data Scientist**, Invoke Solutions Sdn Bhd
 - **Former Deep Learning Engineer**, Skymind Holdings Sdn Bhd
