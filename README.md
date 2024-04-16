@@ -27,7 +27,7 @@ I'm a Senior Lecturer at Universiti Teknologi Malaysia, where I delve into the e
 
 ## 💻 Research Project
 
-- [Undergraduate Project]()
+- [Undergraduate Project](https://github.com/aqillakhamis/Undergraduate-Project)
 - [Postgraduate Project]()
 
 ## 📖 Research Publications
