@@ -1,41 +1,41 @@
-# Hi there 👋
+# 👋 Hi there! I'm Nurulaqilla Khamis
 
-- ⚡ I'm Aqilla!
-- 🔭 Currently working on Machine Learning, Deep Learning and Swarm Intelligence Optimization
+<div style="position: relative;">
+  <img src="https://your-image-url.com/your-icon-image.png" alt="Moving Icon" style="position: absolute; animation: moveIcon 2s infinite;">
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aqillakhamis&theme=chartreuse-dark)](https://git.io/streak-stats)
+I'm a Senior Lecturer at Universiti Teknologi Malaysia, where I delve into the exciting world of Artificial Intelligence, Machine Learning, and Deep Learning. My passion lies in exploring innovative solutions that push the boundaries of what's possible with AI.
 
+<!-- Your other content -->
 
-# IDE 
-![](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white) ![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+## 🌱 Research Focus
 
-# Languages
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white) ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+- **Artificial Intelligence**: Exploring AI algorithms and techniques to solve complex problems.
+- **Machine Learning**: Developing models that can learn from and make predictions based on data.
+- **Deep Learning**: Diving deep into neural networks and their applications in various domains.
 
-# Library
-![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white) ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white) ![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+<!-- Your other content -->
 
-# OS
-![](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)	![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  
-# Prototyping Platforms
-![](https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white) ![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+## 📚 Education & Experience
 
-# Terminal
-![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
+- **Senior Lecturer**, Universiti Teknologi Malaysia
+- **Ph.D. (Research: Artificial Intelligence)**, Universiti Teknologi Malaysia
+- **M.Phil. (Research: Artificial Intelligence)**, Universiti Teknologi Malaysia
+- **B.Eng. in Electrical and Electronics**, Universiti Tenaga Nasional
 
+<!-- Your other content -->
 
-<!--
-**aqillakhamis/aqillakhamis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Get in Touch
 
-Here are some ideas to get you started:
+- 🔗 LinkedIn: [Nurulaqilla Khamis](https://my.linkedin.com/in/nurulaqilla-khamis-860b86bb)
+- 📧 Email: nurulaqilla@utm.my :ema
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out if you're interested in collaboration or just want to chat about AI and its limitless possibilities!
+
+<style>
+  @keyframes moveIcon {
+    0% { transform: translateX(0px); }
+    50% { transform: translateX(50px); }
+    100% { transform: translateX(0px); }
+  }
+</style>
