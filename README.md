@@ -1,9 +1,5 @@
 # 👋 Hi there! I'm Nurulaqilla Khamis
 
-<div style="position: relative;">
-  <img src="https://your-image-url.com/your-icon-image.png" alt="Moving Icon" style="position: absolute; animation: moveIcon 2s infinite;">
-</div>
-
 I'm a Senior Lecturer at Universiti Teknologi Malaysia, where I delve into the exciting world of Artificial Intelligence, Machine Learning, and Deep Learning. My passion lies in exploring innovative solutions that push the boundaries of what's possible with AI.
 
 <!-- Your other content -->
@@ -32,10 +28,4 @@ I'm a Senior Lecturer at Universiti Teknologi Malaysia, where I delve into the e
 
 Feel free to reach out if you're interested in collaboration or just want to chat about AI and its limitless possibilities!
 
-<style>
-  @keyframes moveIcon {
-    0% { transform: translateX(0px); }
-    50% { transform: translateX(50px); }
-    100% { transform: translateX(0px); }
-  }
-</style>
+:octocat:
