@@ -24,7 +24,7 @@ I'm a Senior Lecturer at Universiti Teknologi Malaysia, where I delve into the e
 ## 📫 Get in Touch
 
 - 🔗 LinkedIn: [Nurulaqilla Khamis](https://my.linkedin.com/in/nurulaqilla-khamis-860b86bb)
-- 📧 Email: nurulaqilla@utm.my :ema
+- 📧 Email: nurulaqilla@utm.my
 
 Feel free to reach out if you're interested in collaboration or just want to chat about AI and its limitless possibilities!
 
