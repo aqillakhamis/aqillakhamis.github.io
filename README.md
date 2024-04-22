@@ -22,6 +22,7 @@ I'm a Senior Lecturer at Universiti Teknologi Malaysia, where I delve into the e
 
 ## 👩‍💼 Past Experience
 
+- **Former Senior Lecturer**, Department of Data Science Universiti Malaysia Kelantan
 - **Former Data Scientist**, Invoke Solutions Sdn Bhd
 - **Former Deep Learning Engineer**, Skymind Holdings Sdn Bhd
 
