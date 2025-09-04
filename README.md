@@ -23,8 +23,18 @@ I'm a Senior Lecturer at Universiti Teknologi Malaysia, where I delve into the e
 ## 👩‍💼 Past Experience
 
 - **Former Senior Lecturer**, Department of Data Science Universiti Malaysia Kelantan
-- **Former Data Scientist**, Invoke Solutions Sdn Bhd
+- **Former Data Analytics**, Invoke Solutions Sdn Bhd
 - **Former Deep Learning Engineer**, Skymind Holdings Sdn Bhd
+
+## 🏛️ Research Grant
+
+| Project Title | Funder | Amount | Project Repository |
+|-------------|-------------|-------------|-------------|
+| Explainable Deep Learning Model using Modified Formal Concept Analysis for Palm Oil Fresh Fruit Ripeness Detection  | UTM Encouragement Research   | MYR 67,434   | :octocat:   |
+| Development of Drone-Based Trash Detection and Monitoring System for Environmental Stewardship in Riverbank   | Kurita Water Environment Foundation   | ¥ 400,000   | :octocat:   |
+| Tele-operated Palm Oil Loose Fruit Collector   | Government Agency Grant  | MYR 87,000  | :octocat:  |
+| NT 1.4: AI-Model Development For AI-Powered Translation | UTM Nexus Translasi | MYR 124,990 | :octocat: |
+| MG2-59.1 : Detection of Loose Palm Oil Fruit for the X3CATOR Tele-Operated Robot | Matching Grant | MYR 39,000 | :octocat: |
 
 ## 💻 Research Project
 
